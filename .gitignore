@@ -1,0 +1,6 @@
+*.pyc
+*.pyx
+/fastRCNN/
+/old/
+/proc/
+/resources/

@@ -1,0 +1,23 @@
+Model 1:
+
+I also tried testing a model with many people (niki, yulia and myself), but the model was much less accurate:
+AP for            niki = 0.2500
+AP for          dmitry = 0.5741
+AP for           yulia = 0.1481
+Mean AP = 0.3241
+
+Twice the positive images 60-70 imgs:
+AP for            niki = 0.2500
+AP for          dmitry = 0.8333
+AP for           yulia = 0.1785
+Mean AP = 0.4206
+
+More negative images, including other family:
+
+
+AP for            niki = 0.4167
+AP for          dmitry = 0.8333
+AP for           yulia = 0.1785
+Mean AP = 0.4762
+
+Epic results.
